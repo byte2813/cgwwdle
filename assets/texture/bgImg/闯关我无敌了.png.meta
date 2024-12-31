@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e119b718-f588-4832-a840-fa9479b24129",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 402,
+  "height": 295,
+  "platformSettings": {},
+  "subMetas": {
+    "闯关我无敌了": {
+      "ver": "1.0.6",
+      "uuid": "34ac3142-18c2-4471-9270-141615230451",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e119b718-f588-4832-a840-fa9479b24129",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1.5,
+      "trimX": 7,
+      "trimY": 39,
+      "width": 390,
+      "height": 220,
+      "rawWidth": 402,
+      "rawHeight": 295,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

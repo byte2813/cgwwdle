@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "baa19c08-24ce-44cb-b533-01e0e894b1b3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 67,
+  "height": 108,
+  "platformSettings": {},
+  "subMetas": {
+    "passBar": {
+      "ver": "1.0.6",
+      "uuid": "5b878dc5-01b1-4fb0-a6b4-7da3b9a4a019",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "baa19c08-24ce-44cb-b533-01e0e894b1b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 67,
+      "height": 108,
+      "rawWidth": 67,
+      "rawHeight": 108,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

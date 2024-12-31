@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "load",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8ad8d58a-8b00-4c79-b509-6e166a42087a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8ad8d58a-8b00-4c79-b509-6e166a42087a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f39d61e6-65ad-4649-a453-82e8213858ea"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "ca9f9223-46ac-422c-9dae-056d5358d98f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "2dd24122-4738-44f4-9c84-232428062a46"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "9578f416-05b4-4535-b0cb-d81b02f4d965"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "f5a10403-933d-4245-8d11-44d171bd80c4"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "d6fbf197-84f6-4d09-b248-eac4a2d795d5"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "9fdf887b-3c9b-4ba3-bd7b-c13e29f7f55b"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "53721f58-dfac-4db5-a4eb-75b4ff502aff"
+            }
+          },
+          {
+            "frame": 1.8333333333333333,
+            "value": {
+              "__uuid__": "8bcc249b-251f-4d09-87dc-3164fabf407e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
